@@ -1,0 +1,1 @@
+self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/Users/dmitriy/Desktop/besports/app/(root)/layout\":[\"static/media/c9a5bc6a7c948fb0-s.p.woff2\"],\"/Users/dmitriy/Desktop/besports/app/(auth)/layout\":[\"static/media/513657b02c5c193f-s.p.woff2\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"

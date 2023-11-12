@@ -1,0 +1,8 @@
+{
+  "/(root)/page": "app/(root)/page.js",
+  "/(root)/tournaments/page": "app/(root)/tournaments/page.js",
+  "/(auth)/sign-up/page": "app/(auth)/sign-up/page.js",
+  "/(root)/news/page": "app/(root)/news/page.js",
+  "/(root)/teams/page": "app/(root)/teams/page.js",
+  "/(root)/tournaments/[id]/page": "app/(root)/tournaments/[id]/page.js"
+}
